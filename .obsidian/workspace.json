@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f70a3e055ebe9aed",
+        "id": "eb3f4b004cf8cd42",
         "type": "tabs",
         "children": [
           {
-            "id": "123c7d2b18a4b131",
+            "id": "d1cf2b7a86e9ca26",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d47759805dddf8c",
@@ -173,14 +174,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "123c7d2b18a4b131",
+  "active": "d1cf2b7a86e9ca26",
   "lastOpenFiles": [
-    "Unit 3 - Display Lists and Use Material Design/3. Build Beautiful Apps.md",
+    "NEU Notes/From Generative Models to AI Agents.md",
     "Unit 4 - Navigation and App Architecture/Architecture Components.md",
+    "Unit 3 - Display Lists and Use Material Design/3. Build Beautiful Apps.md",
     "Unit 4 - Navigation and App Architecture",
     "Aqeel Thing.md",
     "README.md",
-    "NEU Notes/From Generative Models to AI Agents.md",
     "2024-11-27.md",
     "NEU Notes",
     "Unit 3 - Display Lists and Use Material Design/2. Build a Scrollable List.md",
