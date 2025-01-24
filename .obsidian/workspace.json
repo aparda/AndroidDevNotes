@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb3f4b004cf8cd42",
+        "id": "52c1094d17b75cc7",
         "type": "tabs",
         "children": [
           {
-            "id": "d1cf2b7a86e9ca26",
+            "id": "700df26d1e160aa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 4 - Navigation and App Architecture/Architecture Components.md",
+                "file": "Unit 4 - Navigation and App Architecture/3. Adapt for Different Screen Sizes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architecture Components"
+              "title": "3. Adapt for Different Screen Sizes"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "viewmodel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,10 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1cf2b7a86e9ca26",
+  "active": "700df26d1e160aa4",
   "lastOpenFiles": [
+    "aukha1nx.bmp",
+    "Unit 4 - Navigation and App Architecture/1. Architecture Components.md",
+    "Unit 4 - Navigation and App Architecture/2. Navigation in Jetpack Compose.md",
+    "Unit 4 - Navigation and App Architecture/3. Adapt for Different Screen Sizes.md",
     "NEU Notes/From Generative Models to AI Agents.md",
-    "Unit 4 - Navigation and App Architecture/Architecture Components.md",
     "Unit 3 - Display Lists and Use Material Design/3. Build Beautiful Apps.md",
     "Unit 4 - Navigation and App Architecture",
     "Aqeel Thing.md",
